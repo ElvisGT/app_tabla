@@ -12,3 +12,6 @@ Esta es una app de consola desarrollada con javascript y node
 
 ### Por defecto esta la tabla del 5 pero podemos cambiar la base
 *Ejecturar npm run help para cambiar las opciones*
+
+### Captura del proyecto
+<img src="https://i.ibb.co/3psCx71/captura-tabla.png" alt="captura de proyecto"/>
