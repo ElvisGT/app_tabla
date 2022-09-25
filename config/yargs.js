@@ -13,7 +13,7 @@ const argv = require("yargs")
               })
               .option('l',{
                 alias:"listar",
-                default:false,
+                default:true,
                 type:"boolean",
                 describe:"Muestra la tabla en consola"
               })
