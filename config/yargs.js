@@ -2,7 +2,7 @@ const argv = require("yargs")
               .option('b',{
                 alias:"base",
                 type:"number",
-                demandOption:true,
+                default:5,
                 describe:"Esta es la base de la tabla de multiplicar"
               })
               .check((argv,options) => {
