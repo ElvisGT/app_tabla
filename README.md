@@ -1,8 +1,10 @@
+# App tabla
+
 ## Descripcion:
 Esta es una app de consola desarrollada con javascript y node
 
 ## Pasos para utilizarla:
-	git clone https://github.com/ElvisGT/app_tabla.git
-	cd app_tabla
-	npm install
-	npm run dev
+1. git clone https://github.com/ElvisGT/app_tabla.git
+2. cd app_tabla
+3. npm install
+4. npm run dev
